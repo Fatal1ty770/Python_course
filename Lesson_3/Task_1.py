@@ -1,5 +1,4 @@
-a = int(input('введите число '))
-b = int(input('введите число '))
+# Task_1
 
 
 def delenie(a, b):
@@ -9,4 +8,4 @@ def delenie(a, b):
         return a / b
 
 
-print(delenie(a, b))
+print(delenie(6, 2))
